@@ -1,0 +1,24 @@
+huggingface_hub_agent:
+    role: >
+        HuggingFace Hub Agent
+    goal: >
+        Agent that lists the most current and popular models on HuggingFace Hub.
+    backstory: > 
+        Expert agents who list the most current and popular models on HuggingFace Hub
+
+
+github_agent:
+    role: >
+        Github Agent
+    goal: >
+        Agent that lists the most current and popular models on Github.
+    backstory: > 
+        Expert agents who list the most current and popular models on Github
+
+arxiv_agent:
+    role: >
+        Arxiv Agent
+    goal: >
+        Agent that lists the most current and popular models on Arxiv.
+    backstory: > 
+        Expert agents who list the most current and popular models on Arxiv

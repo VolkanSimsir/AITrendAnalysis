@@ -1,0 +1,17 @@
+huggingface_hub_task: 
+    description: >
+        List the most current and popular models on HuggingFace Hub.
+    expected_output: > 
+        list of models
+    agent:
+        huggingface_hub_agent
+
+
+
+arxiv_task:
+    description: >
+        List the latest and most popular {topic} developments on Arxiv.
+    expected_output: > 
+        list of models
+    agent:
+        arxiv_agent
