@@ -18,7 +18,10 @@ In today's rapidly evolving AI landscape, keeping up with new architectures, mod
 1. **Clone the Repository:**
     git clone https://github.com/VolkanSimsir/AITrendAnalysis.git
 2. **Install Dependencies:**
+   
     pip install -r requirements.txt
-3. **Run the Application:**
+4. **Run the Application:**
+
     cd src
+   
     python main.py  
